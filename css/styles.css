@@ -3,7 +3,7 @@
 
 header {
 
-	background: red;
+	background: green;
 }
 
 /*Article Headings*/
@@ -17,7 +17,7 @@ article section p {
 	}
 
 article h3 {
-	background: #000;
+	background: #fff;
 	padding: 4px;
 	position: absolute;
 	left:-20px;
@@ -31,27 +31,27 @@ article h3 {
 
 article section:nth-child(1) {
 
-background: green;
+background: #d3d3d3;
 }
 
 /*entree*/
 
 article section:nth-child(2) {
 
-background: blue;
+background: #d3d3d3;
 }
 
 /*desert*/
 
 article section:nth-child(3) {
 
-background: purple;
+background: #d3d3d3;
 }
 
 /*Drinks*/
 article section:nth-child(4) {
 
-background: orange;
+background: #d3d3d3;
 }
 
 /*footer*/
